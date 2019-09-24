@@ -1,0 +1,11 @@
+c:\users\internet\documents\visual studio 2017\Projects\microserviceExemplo\microserviceExemplo\bin\Debug\netcoreapp2.0\microserviceExemplo.deps.json
+c:\users\internet\documents\visual studio 2017\Projects\microserviceExemplo\microserviceExemplo\bin\Debug\netcoreapp2.0\microserviceExemplo.runtimeconfig.json
+c:\users\internet\documents\visual studio 2017\Projects\microserviceExemplo\microserviceExemplo\bin\Debug\netcoreapp2.0\microserviceExemplo.runtimeconfig.dev.json
+c:\users\internet\documents\visual studio 2017\Projects\microserviceExemplo\microserviceExemplo\bin\Debug\netcoreapp2.0\microserviceExemplo.dll
+c:\users\internet\documents\visual studio 2017\Projects\microserviceExemplo\microserviceExemplo\bin\Debug\netcoreapp2.0\microserviceExemplo.pdb
+c:\users\internet\documents\visual studio 2017\Projects\microserviceExemplo\microserviceExemplo\obj\Debug\netcoreapp2.0\microserviceExemplo.csprojResolveAssemblyReference.cache
+c:\users\internet\documents\visual studio 2017\Projects\microserviceExemplo\microserviceExemplo\obj\Debug\netcoreapp2.0\microserviceExemplo.csproj.CoreCompileInputs.cache
+c:\users\internet\documents\visual studio 2017\Projects\microserviceExemplo\microserviceExemplo\obj\Debug\netcoreapp2.0\microserviceExemplo.AssemblyInfoInputs.cache
+c:\users\internet\documents\visual studio 2017\Projects\microserviceExemplo\microserviceExemplo\obj\Debug\netcoreapp2.0\microserviceExemplo.AssemblyInfo.cs
+c:\users\internet\documents\visual studio 2017\Projects\microserviceExemplo\microserviceExemplo\obj\Debug\netcoreapp2.0\microserviceExemplo.dll
+c:\users\internet\documents\visual studio 2017\Projects\microserviceExemplo\microserviceExemplo\obj\Debug\netcoreapp2.0\microserviceExemplo.pdb
